@@ -1,0 +1,27 @@
+@media (max-width: 1050px){
+  .image-1 {
+    display: none;
+  }
+
+  .image-2 {
+    display: block;
+  }
+
+  .image-3 {
+    display: none;
+  }
+}
+
+@media (max-width: 800px){
+  .image-1 {
+    display: block;
+  }
+
+  .image-2 {
+    display: none;
+  }
+
+  .image-3 {
+    display: none;
+  }
+}
